@@ -1,5 +1,4 @@
 
-<<<<<<< b3b317ad5d33190b684903000a10668157b6e840
 asd non lobortis eros. Suspendisse nibh nisi, gravida eu placerat vitae, efficitur ac elit. 
 Nam erat lorem, tristique at dignissim sit amet, consectetur eu massa. Integer ut sodales nisl.
 Suspendisse congue id nunc vel egestas. Sed sagittis eget justo in tempor. Maecenas sed ex nunc.
@@ -16,4 +15,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros enim, lobort
 Mauris scelerisque ultricies sapien eu vulputate. Proin eget ultrices lorem, id imperdiet neque. Fusce ac justo ut purus sollicitudin blandit quis ut turpis. Sed in dolor sed tortor consequat mattis. Mauris porta dui eget tincidunt consectetur. Donec blandit elementum lorem et pulvinar. Nam enim tortor, aliquam vel pellentesque ut, luctus efficitur elit. Nunc congue velit diam, quis egestas lorem vehicula tempor. Pellentesque iaculis sapien in condimentum tempus. Etiam nisl augue, feugiat et malesuada sodales, vestibulum et purus. Mauris quis ornare nisi. Sed quis lacus risus. Phasellus aliquam ultricies tellus ut sollicitudin. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
 
 Vivamus porttitor blandit ex, sit amet luctus nisl posuere id. Integer facilisis mattis venenatis. Integer commodo erat vel lectus eleifend, id ornare arcu ultricies. Donec consectetur mauris diam, a commodo orci semper vel. Nullam interdum blandit enim sed faucibus. Integer ac est consectetur, scelerisque quam sed, posuere urna.
->>>>>>> reestructura cap1
+
+mas cosas
