@@ -4,7 +4,7 @@ ligula scelerisque. Pellentesque in ornare nulla. Sed commodo nulla eu leo condi
 ac lobortis dolor vehicula. Quisque lacinia vel elit vitae porta. Nullam tempus lacus eu tortor
 elementum auctor.
 
-In non lobortis eros. Suspendisse nibh nisi, gravida eu placerat vitae, efficitur ac elit. 
+asd non lobortis eros. Suspendisse nibh nisi, gravida eu placerat vitae, efficitur ac elit. 
 Nam erat lorem, tristique at dignissim sit amet, consectetur eu massa. Integer ut sodales nisl.
 Suspendisse congue id nunc vel egestas. Sed sagittis eget justo in tempor. Maecenas sed ex nunc.
 
@@ -12,6 +12,12 @@ Continuacion
 Creada nueva rama
 Más texto añadido
 Procedo a crear nuevo commit
+<<<<<<< HEAD
 
 Ieeeeeeeeeeeeeeeeeeeeee
 Ieeeeeeeeeeeeeeeeeeeee
+=======
+asd
+asd
+asd
+>>>>>>> d867747f64c8d5aed0d59e0248a0d6d000d27c84
